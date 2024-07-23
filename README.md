@@ -57,6 +57,8 @@
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naamiahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
   <h3>💻 GitHub Profile Stats</h3>
 
