@@ -2,8 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=435&lines=~+Welcome+to+my+GitHub+Profile+~;Cloud+and+DevOps+Enthusiast+☁️;Full+Stack+Developer+💻;Passionate+About+UI%2FUX+Design+🎨;Always+Exploring+New+Technologies+🚀" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=435&lines=~+Welcome+to+my+GitHub+Profile+~;Cloud+and+DevOps+Enthusiast+☁️;Full+Stack+Developer+%28web+%26+mobile%29+💻;Always+Exploring+New+Technologies+🚀" alt="Typing SVG" />
+</a>
+
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **React** and exploring **Cloud Technologies**.
+- 🔭 I’m currently working on **Flutter and React** and exploring **Cloud Technologies**.
 - 🌱 I’m a student at **Institute of Technology University of Moratuwa**, focusing on **Cloud and DevOps**.
 - 📫 Reach me at **naamiahmed27@gmail.com**
 
