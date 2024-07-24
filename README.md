@@ -18,13 +18,13 @@
 
 - 🌱 I’m currently learning **at Institute of Technology University of Moratuwa**
 
-- 📫 How to reach me **naamiahmed@gmail.com**
+- 📫 How to reach me **naamiahmed27@gmail.com**
   
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naamiahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naamiahmed" height="30" width="40" /></a>
-<a href="https://fb.com/naamiahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naamiahmed" height="30" width="40" /></a>
+<a href="https://fb.com/naamiahmed27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naamiahmed" height="30" width="40" /></a>
 </p>
 
 ---
@@ -57,8 +57,6 @@
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
-  <h3>🏆 GitHub Trophies</h3>
-<a>https://github-profile-trophy.vercel.app/?username=naamiahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4</a>
 
   <h3>💻 GitHub Profile Stats</h3>
 
