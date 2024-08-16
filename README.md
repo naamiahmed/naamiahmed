@@ -101,7 +101,6 @@
   <a href="https://github.com/naamiahmed/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naamiahmed's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=naamiahmed&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <h2>🏆 GitHub Trophies</h2>
@@ -122,5 +121,5 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="naamiahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=naamiahmed&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/naamiahmed/github-readme-activity-graph"><img alt="naamiahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=naamiahmed&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
